@@ -155,10 +155,10 @@ export function Report() {
                     <img
                       alt="Chart"
                       className="rounded-lg object-cover"
-                      height={200}
+                      height={400}
                       src="/hiscom.svg"
                       style={{
-                        aspectRatio: "400/200",
+                        aspectRatio: "400/400",
                         objectFit: "cover",
                       }}
                       width={400}
