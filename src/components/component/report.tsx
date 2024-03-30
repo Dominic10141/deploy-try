@@ -148,7 +148,7 @@ export function Report() {
                   <CardHeader>
                     <CardTitle>Cost Savings</CardTitle>
                     <CardDescription>
-                      Visualizations of cost savings achieved through offsetting the company's carbon emissions.
+                      Visualizations of cost savings achieved through offsetting the carbon emissions.
                     </CardDescription>
                   </CardHeader>
                   <CardContent className="flex items-center justify-center">
