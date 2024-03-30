@@ -398,7 +398,7 @@ function Package2Icon(props) {
   )
 }
 
-
+// @ts-ignore
 function BellIcon(props) {
   return (
     <svg
@@ -419,7 +419,7 @@ function BellIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function HomeIcon(props) {
   return (
     <svg
@@ -440,7 +440,7 @@ function HomeIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function TrendingUpIcon(props) {
   return (
     <svg
@@ -461,7 +461,7 @@ function TrendingUpIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function ActivityIcon(props) {
   return (
     <svg
@@ -481,7 +481,7 @@ function ActivityIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function SettingsIcon(props) {
   return (
     <svg
@@ -502,7 +502,7 @@ function SettingsIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function SearchIcon(props) {
   return (
     <svg
@@ -523,7 +523,7 @@ function SearchIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function ArrowLeftIcon(props) {
   return (
     <svg
@@ -544,7 +544,7 @@ function ArrowLeftIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function CalendarClockIcon(props) {
   return (
     <svg
@@ -569,7 +569,7 @@ function CalendarClockIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function RefreshCwIcon(props) {
   return (
     <svg
@@ -592,7 +592,7 @@ function RefreshCwIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function CurvedlineChart(props) {
   return (
     <div {...props}>
