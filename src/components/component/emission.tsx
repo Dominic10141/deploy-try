@@ -17,7 +17,7 @@ export function Emission() {
           <div className="flex h-[60px] items-center border-b px-6">
             <Link className="flex items-center gap-2 font-semibold" href="#">
               <Package2Icon className="h-6 w-6" />
-              <span className="">Acme Inc</span>
+              <span className="">Green Ledger</span>
             </Link>
             <Button className="ml-auto h-8 w-8" size="icon" variant="outline">
               <BellIcon className="h-4 w-4" />
@@ -333,10 +333,10 @@ export function Emission() {
               <CardTitle>by Source</CardTitle>
             </CardHeader>
             <CardContent>
-              <div className="flex items-center gap-4">
+              <div className="flex-col items-center gap-4">
                 <div className="grid gap-1.5">
                   <Card>
-                    <CardHeader className="flex items-center gap-4">
+                    <CardHeader className="flex-col items-center gap-4">
                       <CardDescription>Department</CardDescription>
                       <CardTitle>Operations</CardTitle>
                     </CardHeader>
@@ -347,7 +347,7 @@ export function Emission() {
                 </div>
                 <div className="grid gap-1.5">
                   <Card>
-                    <CardHeader className="flex items-center gap-4">
+                    <CardHeader className="flex-col items-center gap-4">
                       <CardDescription>Department</CardDescription>
                       <CardTitle>Warehouse</CardTitle>
                     </CardHeader>
