@@ -91,7 +91,7 @@ export function Report() {
                   alt="Avatar"
                   className="rounded-full"
                   height="32"
-                  src="/placeholder.svg"
+                  src="/hiscom.svg"
                   style={{
                     aspectRatio: "32/32",
                     objectFit: "cover",
