@@ -376,7 +376,7 @@ export function Emission() {
   )
 }
 
-
+// @ts-ignore
 function Package2Icon(props) {
   return (
     <svg
