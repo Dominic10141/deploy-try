@@ -229,7 +229,7 @@ export function Report() {
   )
 }
 
-
+// @ts-ignore
 function Package2Icon(props) {
   return (
     <svg
@@ -251,7 +251,7 @@ function Package2Icon(props) {
   )
 }
 
-
+// @ts-ignore
 function BellIcon(props) {
   return (
     <svg
@@ -272,7 +272,7 @@ function BellIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function HomeIcon(props) {
   return (
     <svg
@@ -293,7 +293,7 @@ function HomeIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function LineChartIcon(props) {
   return (
     <svg
@@ -314,7 +314,7 @@ function LineChartIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function LandmarkIcon(props) {
   return (
     <svg
@@ -339,7 +339,7 @@ function LandmarkIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function FileIcon(props) {
   return (
     <svg
@@ -360,7 +360,7 @@ function FileIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function SearchIcon(props) {
   return (
     <svg
@@ -381,7 +381,7 @@ function SearchIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function ArrowLeftIcon(props) {
   return (
     <svg
@@ -402,7 +402,7 @@ function ArrowLeftIcon(props) {
   )
 }
 
-
+// @ts-ignore
 function CalendarClockIcon(props) {
   return (
     <svg
